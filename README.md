@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sindre Gangeskar</h1>
-<h4 align="center">A Unity C# game developer hobbyist and student at Noroff - School of Data Technology and Digital Media studying backend development</h4>
+<h4 align="center">A Unity C# game developer hobbyist and student at Noroff - School of Technology and Digital Media studying backend development</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindre-gangeskar&label=Profile%20views&color=0e75b6&style=flat" alt="sindre-gangeskar" /> </p>
 
