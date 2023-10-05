@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Sindre Gangeskar, a hobbyist Unity C# game developer, and a student at Noroff - School of Data Technology and Digital Media as a backend developer. 
-I currently know C#, JavaScript, GDScript
+I currently know C#, JavaScript, and some GDScript
 
 - Currently known languages / learning: C#, JavaScript, GDScript
 
