@@ -7,7 +7,7 @@
 
 - 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks) and GDScript (Godot Game Engine)**
 
-- 📖 Currently learning these frameworks **React, Svelte, Vue.js, ThreeJS**
+- 📖 Currently learning frameworks: **React, Svelte, Vue.js, ThreeJS**
 
 - 🔭 My latest JavaScript project: [Task A Card](https://task-a-card.netlify.app/)
 
