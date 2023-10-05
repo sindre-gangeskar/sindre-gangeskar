@@ -3,8 +3,10 @@
 I'm Sindre Gangeskar, a hobbyist Unity C# game developer, and a student at Noroff - School of Data Technology and Digital Media as a backend developer. 
 I currently know C#, JavaScript, GDScript
 
+- Currently known languages / learning: C#, JavaScript, GDScript
+
 - 🔭 I’m currently working on Task A Card: https://task-a-card.netlify.app/ and some game projects on the side. 
-- 🌱 I’m currently learning React, Svelte, Vue.js
+- 🌱 I’m currently learning React, Svelte, Vue.js and ThreeJS
 - 👯 I’m looking to collaborate on any fun projects!
 - 💬 Ask me about anything
 - 📫 How to reach me: sgangeskar2710@outlook.com
