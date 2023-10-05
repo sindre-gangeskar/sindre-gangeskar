@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindre-gangeskar&label=Profile%20views&color=0e75b6&style=flat" alt="sindre-gangeskar" /> </p>
 
-- 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks) and GDScript (Godot Game Engine)**
+- 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks), HTML, CSS and GDScript (Godot Game Engine)**
 
 - 📖 Currently learning frameworks: **React, Svelte, Vue.js, ThreeJS**
 
