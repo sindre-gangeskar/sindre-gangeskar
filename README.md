@@ -13,7 +13,6 @@ I currently know C#, JavaScript, and some GDScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started as a 3D hard-surface modeler and 3D animator turned coder.
 
-- Past work: https://handydrawn-weather.netlify.app/
 <!--
 **sindre-gangeskar/sindre-gangeskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
