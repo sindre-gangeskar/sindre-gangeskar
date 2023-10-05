@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindre-gangeskar&label=Profile%20views&color=0e75b6&style=flat" alt="sindre-gangeskar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sindre-gangeskar" alt="sindre-gangeskar" /></a> </p>
-
 - 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks) and GDScript (Godot Game Engine)**
 
 - 📖 Currently learning frameworks: **React, Svelte, Vue.js, ThreeJS**
