@@ -11,7 +11,7 @@ I currently know C#, JavaScript, and some GDScript
 - 💬 Ask me about anything
 - 📫 How to reach me: sgangeskar2710@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started as a 3D hard-surface modeler and 3D animator turned coder.
+- ⚡ Fun fact: I'm a 3D hard-surface modeler and 3D animator turned coder.
 
 <!--
 **sindre-gangeskar/sindre-gangeskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
