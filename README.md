@@ -7,7 +7,7 @@
 
 - 📖 Currently learning frameworks: **React, Svelte, Vue.js, ThreeJS**
 
-- 🔭 My latest JavaScript project: [Task A Card](https://task-a-card.netlify.app/)
+- 🔭 My latest JavaScript project: [Staff and Delivery App](https://staff-and-delivery.netlify.app/)
 
 - 📫 How to reach me: **sgangeskar2710@outlook.com**
 
