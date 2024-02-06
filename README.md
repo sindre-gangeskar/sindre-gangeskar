@@ -5,9 +5,7 @@
 ### About me
 - I'm currently a student at Noroff - School of Technology and Digital Media studying backend development.  
 - I'm also a Unity C# developer where I love to experiment with new projects and I've been doing this for about 6-7 years.    
-- I have experience in 3D modeling and animating, mostly hard-surface modeling but some character rigging and animations too.
-  Mostly use Blender as it has become a powerhouse in its own right.
-
+- I have experience in 3D modeling and animations.
 
 - 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks), HTML, CSS and GDScript (Godot Game Engine)**
 
