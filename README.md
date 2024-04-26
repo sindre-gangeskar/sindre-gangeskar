@@ -46,8 +46,6 @@ I also develop projects in my spare time in Unity with C# and JavaScript with No
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="30" height="30"/>
 </span>
 
- **React, Svelte, ThreeJS**
-
 ### Contact me
 **sindre.gangeskar2710@outlook.com**  
 
