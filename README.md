@@ -9,15 +9,33 @@ I also develop projects in my spare time in Unity with C# and JavaScript with No
 
 ### I'm experienced in: 
 <span>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" href="https://dotnet.microsoft.com/en-us/languages/csharp"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="30" height="30"/>
-<img src="https://www.passportjs.org/images/logo.svg" alt="passport" width="30" height="30"/>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="30" height="30"/>
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+    </a>
+    <a href="https://sequelize.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="30" height="30"/>
+    </a>
+    <a href="https://graphql.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="30" height="30"/>
+    </a>
+    <a href="https://www.passportjs.org/">
+        <img src="https://www.passportjs.org/images/logo.svg" alt="passport" width="30" height="30"/>
+    </a>
 </span>
 
 ### I Enjoy Experimenting With:
