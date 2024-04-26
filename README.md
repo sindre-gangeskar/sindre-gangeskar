@@ -1,11 +1,12 @@
 # Sindre Gangeskar ![](https://komarev.com/ghpvc/?username=sindre-gangeskar&style=for-the-badge&label=Profile+visits)
-- #### Unity C# game developer hobbyist
+- #### Software Developer
 - #### Student at Noroff - School of Technology and Digital Media studying backend development
+- #### Unity C# game developer (hobby)
 
 ### About me
 - I'm currently a student at Noroff - School of Technology and Digital Media studying backend development.  
 - I develop projects in my spare time in Unity with C# and I've been doing this for about 6-7 years.    
-- I have experience in 3D modeling and animations.
+- Experienced in 3D modeling and animations.
 
 - 🧠 Currently developing my skills in: **C#, JavaScript (including frameworks), HTML, CSS and GDScript (Godot Game Engine)**
 
