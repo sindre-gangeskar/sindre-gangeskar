@@ -1,4 +1,4 @@
-# Sindre Gangeskar ![](https://komarev.com/ghpvc/?username=sindre-gangeskar&style=for-the-badge&label=Profile+visits)
+# Sindre Gangeskar ![](https://komarev.com/ghpvc/?username=sindre-gangeskar&style=for-the-badge&label=Profile+visits) 
 - #### Backend Developer / Web Developer
 - #### Student at Noroff - School of Technology and Digital Media studying backend development
 - #### Unity C# game developer (hobby)
@@ -7,24 +7,31 @@
 I'm currently a student at Noroff - School of Technology and Digital Media studying backend development.
 I also develop projects in my spare time in Unity with C# and JavaScript with Node.js among many others as a hobby.    
 
-#### I'm experienced in: 
-- C#
-- JavaScript,
-- Node.js(including frameworks)
-- HTML5,
-- CSS3
-- Express.js
-- MySQL & MySQL Workbench
-- Sequelize.js
-- Passport.js
-- GraphQL
+### I'm experienced in: 
+<span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30" href="https://dotnet.microsoft.com/en-us/languages/csharp"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="30" height="30"/>
+<img src="https://www.passportjs.org/images/logo.svg" alt="passport" width="30" height="30"/>
+</span>
 
-- Currently experimenting with: **React, Svelte, Vue.js, ThreeJS**
+### I Enjoy Experimenting With:
+<span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="30" height="30"/>
+</span>
 
-- How to reach me: **sindre.gangeskar2710@outlook.com**  
+ **React, Svelte, ThreeJS**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Contact me
+**sindre.gangeskar2710@outlook.com**  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre-gangeskar&show_icons=true&locale=en&layout=compact" alt="sindre-gangeskar" /></p>
 
