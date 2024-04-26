@@ -1,5 +1,5 @@
 # Sindre Gangeskar ![](https://komarev.com/ghpvc/?username=sindre-gangeskar&style=for-the-badge&label=Profile+visits)
-- #### Backend / Front-end Developer
+- #### Backend Developer / Web Developer
 - #### Student at Noroff - School of Technology and Digital Media studying backend development
 - #### Unity C# game developer (hobby)
 
