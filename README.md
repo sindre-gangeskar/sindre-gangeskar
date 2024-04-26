@@ -4,13 +4,22 @@
 - #### Unity C# game developer (hobby)
 
 ### About me
-- I'm currently a student at Noroff - School of Technology and Digital Media studying backend development.  
-- I develop projects in my spare time in Unity with C# and I've been doing this for about 6-7 years.    
-- Experienced in 3D modeling and animations.
+I'm currently a student at Noroff - School of Technology and Digital Media studying backend development.
+I also develop projects in my spare time in Unity with C# and JavaScript with Node.js among many others as a hobby.    
 
-- Developing my skills in: **C#, JavaScript (including frameworks), HTML, CSS and GDScript (Godot Game Engine)**
+#### I'm experienced in: 
+- C#
+- JavaScript,
+- Node.js(including frameworks)
+- HTML5,
+- CSS3
+- Express.js
+- MySQL & MySQL Workbench
+- Sequelize.js
+- Passport.js
+- GraphQL
 
-- Currently learning frameworks: **React, Svelte, Vue.js, ThreeJS**
+- Currently experimenting with: **React, Svelte, Vue.js, ThreeJS**
 
 - How to reach me: **sindre.gangeskar2710@outlook.com**  
 
