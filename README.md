@@ -50,6 +50,6 @@ I also develop projects in my spare time in Unity with C# and JavaScript with No
 **sindre.gangeskar2710@outlook.com**  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre-gangeskar&show_icons=true&locale=en&layout=compact" alt="sindre-gangeskar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre-gangeskar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sindre-gangeskar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sindre-gangeskar&show_icons=true&locale=en" alt="sindre-gangeskar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sindre-gangeskar&show_icons=true&locale=en&theme=dracula" alt="sindre-gangeskar" /></p>
