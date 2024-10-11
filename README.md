@@ -14,6 +14,7 @@
  - React + Vite
  - Bootstrap
  - Electron
+ - and more...
 
 ##### Databases
  - MySQL
@@ -24,7 +25,7 @@
  - Express.js
  - OIDC
  - Passport.js
- - And many others
+ - and more...
 
 ## I'm experienced in:  
 
