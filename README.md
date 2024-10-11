@@ -8,6 +8,11 @@
 
  I'm a passionate student at **Noroff - School of Technology and Digital Media** studying backend development.  
  In my spare-time I spend a good deal of my time developing full-stack and web applications on the side as a hobby.  
+
+ My dream is to develop professionally and eventually become a full-stack developer.
+
+ I enjoy experimenting and making things work from end to end no matter the framework or library I use  
+ There's nothing else like it when **it just works** 🙌🏻
  
  #### Some of of the frameworks / libraries / tools I enjoy using in my projects: 
  ##### Front-end
