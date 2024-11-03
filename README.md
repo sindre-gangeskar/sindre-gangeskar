@@ -14,7 +14,7 @@
  I enjoy experimenting and making things work from end to end no matter the framework or library I use.  
  There's nothing else like it when **it just works** 🙌🏻
 
-## What I like to use in my projects and am expereienced in:
+## What I like to use in my projects and am experienced in:
 <span>
      <h4>Languages</h4>
      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
