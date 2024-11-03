@@ -92,10 +92,39 @@
 ## Currently working on:  
 
 ###  [**shadPS4 Alchemist**](https://github.com/sindre-gangeskar/shadps4-alchemist) - A mod manager and a games launcher for the shadPS4 Emulator  
-```Vite + React + Electron```  
+<span>
+    <a href="https://www.react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
+    </a>
+    <a href="https://vite.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vitejs" width="30"/>
+    </a>
+    <a href="https://electronjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/electron/electron-original.svg" alt="electron" width="30"/>
+    </a>
+</span>
 
 ### [**Steam Backlogify**](https://github.com/sindre-gangeskar/steam-backlogify) - A hobby project that allows you to browse your own steam games and add them to your own backlog  
-```Vite + Express.js + React + MongoDB   ```  
+<span>  
+    <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="50"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="50"/>
+    </a>
+    <a href="https://www.react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
+    </a>
+    <a href="https://vite.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vitejs" width="30"/>
+    </a>
+     <a href="https://mongodb.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/>
+    </a>
+    <a href="https://sequelize.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="50"/>
+    </a>
+</span>
 
 
 <br></br>
