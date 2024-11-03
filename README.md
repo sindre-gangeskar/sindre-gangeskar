@@ -109,7 +109,7 @@
    <strong><p>A mod manager and a games launcher for the shadPS4 Emulator</p></strong>
    </div>
 
-
+  <hr></hr>
    <div>
     <span>
      <a href="https://github.com/sindre-gangeskar/steam-backlogify" target="_blank">
@@ -131,8 +131,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="30"/>
     </a>
     </span>
-  <strong><p>A hobby project that allows you to browse your own steam games and add them to your own backlog</p></strong>
-   </div>    
+   </div>  
+     <strong><p>A hobby project that allows you to browse your own steam games and add them to your own backlog</p></strong>
+     <strong><a href='https://steambacklogify.info'>https://steambacklogify.info</a></strong>
 </span>
 
 
