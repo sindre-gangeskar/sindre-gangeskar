@@ -13,27 +13,8 @@
 
  I enjoy experimenting and making things work from end to end no matter the framework or library I use.  
  There's nothing else like it when **it just works** 🙌🏻
- 
- #### Some of the frameworks / libraries / tools I enjoy using in my projects: 
- ##### Front-end
- - React + Vite
- - Bootstrap
- - Electron
- - and more...
 
-##### Databases
- - MySQL
- - MongoDB
- 
- ##### Back-end
- - Sequelize
- - Express.js
- - OIDC
- - Passport.js
- - and more...
-
-## I'm experienced in:  
-
+## What I like to use in my projects and am expereienced in:
 <span>
      <h4>Languages</h4>
      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
