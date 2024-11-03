@@ -13,7 +13,7 @@
 
  I enjoy experimenting and making things work from end to end no matter the framework or library I use.  
  There's nothing else like it when **it just works** 🙌🏻
-
+ 
 ## What I like to use in my projects and am experienced in:
 <span>
      <h4>Languages</h4>
@@ -90,9 +90,11 @@
 </span>
 
 ## Currently working on:  
-
-###  [**shadPS4 Alchemist**](https://github.com/sindre-gangeskar/shadps4-alchemist) - A mod manager and a games launcher for the shadPS4 Emulator  
-<span>
+   <div>
+    <span>
+    <a href="https://github.com/sindre-gangeskar/shadps4-alchemist" target="_blank">
+        <img src="https://github.com/sindre-gangeskar/shadps4-alchemist/blob/main/.github/shadps4-alchemist_transparent.png?raw=true" alt="react" width="450"/>
+    </a>
     <a href="https://www.react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
     </a>
@@ -102,15 +104,16 @@
     <a href="https://electronjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/electron/electron-original.svg" alt="electron" width="30"/>
     </a>
-</span>
+    </span>
 
-### [**Steam Backlogify**](https://github.com/sindre-gangeskar/steam-backlogify) - A hobby project that allows you to browse your own steam games and add them to your own backlog  
-<span>  
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="50"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="50"/>
+   <strong><p>A mod manager and a games launcher for the shadPS4 Emulator</p></strong>
+   </div>
+
+
+   <div>
+    <span>
+     <a href="https://github.com/sindre-gangeskar/steam-backlogify" target="_blank">
+        <img src="https://github.com/sindre-gangeskar/steam-backlogify/blob/main/.github/images/logo/steam_backlogify_logo.png?raw=true" alt="steam-backlogify"width="450"/>
     </a>
     <a href="https://www.react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
@@ -118,12 +121,21 @@
     <a href="https://vite.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vitejs" width="30"/>
     </a>
+    <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="30"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="30"/>
+    </a>
      <a href="https://mongodb.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30"/>
     </a>
     <a href="https://sequelize.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="30"/>
     </a>
+    </span>
+  <strong><p>A hobby project that allows you to browse your own steam games and add them to your own backlog</p></strong>
+   </div>    
 </span>
 
 
