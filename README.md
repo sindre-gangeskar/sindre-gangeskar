@@ -53,6 +53,12 @@
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/>
     </a>
+       <a href="https://dbeaver.io" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50"/>
+    </a>
+    <a href="https://mongodb.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/>
+    </a>
     <a href="https://sequelize.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="50"/>
     </a>
@@ -77,11 +83,11 @@
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg" alt="jira" width="50"/>
     </a>
-    <a href="https://dbeaver.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="50"/>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="git" width="50"/>
     </a>
-    <a href="https://mongodb.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50"/>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" alt="github" width="50"/>
     </a>
 </span>
 
