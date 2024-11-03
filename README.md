@@ -65,6 +65,15 @@
     <a href="https://www.react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="50"/>
     </a>
+    <a href="https://jestjs.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" alt="jest" width="50"/>
+    </a>
+    <a href="https://postman.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-plain.svg" alt="postman" width="50"/>
+    </a>
+    <a href="https://swagger.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/swagger/swagger-original.svg" alt="swagger" width="50"/>
+    </a>
 </span>
 
 ## Currently working on:  
