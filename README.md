@@ -121,9 +121,6 @@
     <a href="https://vite.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vitejs" width="30"/>
     </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="30"/>
-    </a>
     <a href="https://expressjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="30"/>
     </a>
