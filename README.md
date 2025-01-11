@@ -71,6 +71,9 @@
     <a href="https://www.passportjs.org/" target="_blank">
         <img src="https://www.passportjs.org/images/logo.svg" alt="passport" width="50"/>
     </a>
+    <a href="https://jwt.io/" target="_blank">
+        <img src="https://jwt.io/img/pic_logo.svg" alt="jsonwebtoken" width="50"/>
+    </a>
  <h4>Testing & Documentation</h4>
     <a href="https://jestjs.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" alt="jest" width="50"/>
