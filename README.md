@@ -1,17 +1,22 @@
 # Sindre Gangeskar ![](https://komarev.com/ghpvc/?username=sindre-gangeskar&style=for-the-badge&label=Profile+visits) 
 
 - #### Passionate Backend Developer / Web Developer / Full-stack Hobbyist
-- #### Student at Noroff - School of Technology and Digital Media studying backend development - Final exam starting on the 21st of October 2024, completing my backend development program 
 - #### Unity C# game developer (hobby)
+
+## Education
+- **Back-end development (year 1)** at *Noroff - School of Technology and Digital Media*
+  - Completed a comprehensive 1-year education program that focused on:
+    - **Server-side**: Designing and implementing the back-end logic for modern systems.
+    - **REST APIs**: Creating and managing modern endpoint applications.
+    - **Database**: Modeling and designing database tables and establishing relationships that follow the third normalization form (3NF)
 
 ## About me
 
- I'm a passionate student at **Noroff - School of Technology and Digital Media** studying backend development.  
- In my spare-time I spend a good deal of my time developing full-stack and web applications on the side as a hobby.  
-
- My dream is to develop professionally and eventually become a full-stack developer.
-
+ 
+ I'm a passionate developer who spends a lot of time exploring new technologies from the development world to enhance my knowledge and stay ahead of the latest trends.
+ 
  I enjoy experimenting and making things work from end to end no matter the framework or library I use.  
+ 
  There's nothing else like it when **it just works** 🙌🏻
  
 ## What I like to use in my projects and am experienced in:
