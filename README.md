@@ -147,7 +147,7 @@
 
 <br></br>
 ### Contact me
-**sindre.gangeskar2710@outlook.com**  
+**contact@sindregangeskar.dev**  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sindre-gangeskar&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=0.25rem" alt="sindre-gangeskar" /></p>
