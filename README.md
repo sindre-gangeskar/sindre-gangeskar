@@ -28,9 +28,15 @@
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"/>
     </a>
-     <h4>Back-end</h4>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50"/>
+    </a>
+     <h4>Back-end / Full-Stack</h4>
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"width="50"/>
+    </a>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50"/>
     </a>
     <a href="https://expressjs.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" alt="express" width="50"/>
@@ -90,6 +96,16 @@
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" alt="github" width="50"/>
+    </a>
+   <h4>Hosting Platforms</h4>
+     <a href="https://vercel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vercel/vercel-original.svg" alt="vercel" width="50"/>
+    </a>
+     <a href="https://netlify.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/netlify/netlify-original.svg" alt="netlify" width="50"/>
+    </a>
+     <a href="https://railway.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/railway/railway-original.svg" alt="railway" width="50"/>
     </a>
  <h4>Agile & Scrum</h4>
      <a href="https://atlassian.com/software/jira" target="_blank">
