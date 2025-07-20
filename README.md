@@ -129,6 +129,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  alt="next.js" width="30" />
     </a>
     </span>
+     <strong><p>A giveway application for discord community game key donations</p></strong>
    </div>
    <hr></hr>
    <div>
