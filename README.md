@@ -116,6 +116,23 @@
 ## Currently working on:  
    <div>
     <span>
+    <a href="https://github.com/sindre-gangeskar/ludonium" target="_blank">
+        <img src="https://github.com/sindre-gangeskar/ludonium/blob/master/.github/assets/Logo.svg" alt="react" width="350"/>
+    </a>
+    <a href="https://www.react.dev/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
+    </a>
+    <a href="https://www.prisma.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="30" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  alt="next.js" width="30" />
+    </a>
+    </span>
+   </div>
+   <hr></hr>
+   <div>
+    <span>
     <a href="https://github.com/sindre-gangeskar/shadps4-alchemist" target="_blank">
         <img src="https://github.com/sindre-gangeskar/shadps4-alchemist/blob/main/.github/shadps4-alchemist_transparent.png?raw=true" alt="react" width="450"/>
     </a>
