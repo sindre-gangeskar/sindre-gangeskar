@@ -175,7 +175,6 @@
     </span>
    </div>  
      <strong><p>A hobby project that allows you to browse your own steam games and add them to your own backlog</p></strong>
-     <strong><a href='https://steambacklogify.info'>https://steambacklogify.info</a></strong>
 </span>
 
 
